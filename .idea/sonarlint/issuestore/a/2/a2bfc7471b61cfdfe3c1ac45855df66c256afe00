@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãœ»
+`
+java:S2259#"JA "NullPointerException" could be thrown; "boundingRect" is nullable here.(¤æÈ“
+S
+java:S1172"8Remove this unused method parameter "coordinatesPoints".(õÒ¨ÿüÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+@	java:S106""+Replace this use of System.out by a logger.(áó‰³
+@	java:S106#"+Replace this use of System.out by a logger.(¤æÈ“
+E	java:S106$"+Replace this use of System.out by a logger.(Ë¨Úüÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ÆŒÚ®ûÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(ùàèü
+E	java:S106*"+Replace this use of System.out by a logger.(êÓæøùÿÿÿÿ

@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÞ¡©ÿÿÿÿÿ8©רלעי1J$f6897c89-2027-4dea-a766-0cc229c37ae9
+o
+java:S1172",Remove this unused method parameter "words".(‰¼ÿמ8µו‡ףי1J$0a220dd5-d43a-4e02-b2e5-51cf5c248f47
+C
+java:S1168"&Return an empty array instead of null.(¥¹ן8ˆףי1
+r
+java:S1197"*Move the array designators [] to the type.(¡‏ֿײרÿÿÿÿ8¹רלעי1J$95002598-6663-4cff-a0ad-0e13fdb021c3
+m	java:S106"+Replace this use of System.out by a logger.(שאטü8÷רלעי1J$ed643197-5e00-4c22-9822-02f8afdf288a
+m	java:S106"+Replace this use of System.out by a logger.(ÿƒ®כ8»רלעי1J$b7af6324-d60d-47fd-b9e4-3d388998e91a
+i
+java:S1481"&Remove this unused "i" local variable.( Ûט¸8»רלעי1J$ce0d459c-7b5b-4f42-8fed-71a654bf9cf5
+k	java:S108")Either remove or fill this block of code.( Ûט¸8»רלעי1J$cc8343a4-818d-4cc4-9a21-1bf8fea43e5a

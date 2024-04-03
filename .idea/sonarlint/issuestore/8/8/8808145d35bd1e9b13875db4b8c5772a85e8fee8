@@ -1,0 +1,8 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıä˜CJ$2e800297-bf4c-4e1b-a9b7-249d590d42b7
+Œ
+java:S2147-"DCombine this catch with the one at line 43, which has the same body.(¥¨›ıÿÿÿÿ8†‰˜ê1J$0cbe6f0a-d853-4055-8ed5-069cd7b0e244
+r	java:S106,"+Replace this use of System.out by a logger.(—ï—úÿÿÿÿ8Œ‰˜ê1J$96c14429-f2a7-41f8-bd1a-6f55d1f6902c
+r	java:S106."+Replace this use of System.out by a logger.(—ï—úÿÿÿÿ8‰˜ê1J$666c4f3e-e981-4690-891e-8acdb0a7a3b4
+r	java:S1060"+Replace this use of System.out by a logger.(¸­¨òøÿÿÿÿ8‰˜ê1J$28108499-f06a-44aa-a0be-a2374b4a3d68
+r	java:S106<"+Replace this use of System.out by a logger.(™•ªÿúÿÿÿÿ8‰˜ê1J$67113915-f81d-495a-9832-0f440a1a05dd

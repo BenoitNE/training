@@ -1,0 +1,7 @@
+
+{
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "numbers".(νθ—s8Έ—γσι1
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ΠΫωÿÿÿÿ8Άπίσι1J$f60a22fc-a7f7-45b3-a83e-b96d1ad8a4dc
+E
+java:S1172"(Remove this unused method parameter "n".(Ίς8Ύ—γσι1
+m	java:S106"+Replace this use of System.out by a logger.(Ηµ¨ 8¬πίσι1J$2d1e34e1-2f57-4625-b9ed-7ad9f8524d20
