@@ -1,5 +1,8 @@
 package org.example.facileIntermediaire.calculatrice;
 
+import java.io.File;
+import java.io.FileReader;
+
 /*
 Vous devez créer une classe Calculatrice avec des méthodes pour effectuer des opérations mathématiques simples
 telles que l'addition, la soustraction, la multiplication et la division. Cependant, vous devez également gérer
@@ -25,7 +28,7 @@ avec différents types d'entrées.
 public class Exercice {
 
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 //        Exercice calc = new Exercice();
 //
 //        // Exemples d'utilisation
@@ -33,5 +36,5 @@ public class Exercice {
 //        double b = 0;
 //        String operation = "/";
 //        System.out.println("Résultat : " + calc.calculer(a, b, operation));
-    }
+	}
 }

@@ -10,12 +10,13 @@ import java.util.List;
 
 public class Exercice {
     public static List<Integer> findFactors(int number) {
+    	
         return null;
     }
 
 
     public static void main(String[] args) {
-        int number = 12;
+        int number = 128;
         List<Integer> factors = findFactors(number);
         System.out.println("Les facteurs de " + number + " sont : " + factors);
     }

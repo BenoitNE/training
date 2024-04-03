@@ -12,8 +12,6 @@ mot triés par ordre alphabétique. Pour l'exemple ci-dessus, la sortie correcte
 
 public class Exercice {
     public static int[] countFrequencies(String[] words) {
-
-
         return null;
     }
 

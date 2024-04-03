@@ -5,4 +5,5 @@ package org.example.facileIntermediaire.inverseMinusculeMajuscule;
 entrée et inverse les majuscules en minuscules et vice versa.
  */
 public class Exercice {
+	
 }
